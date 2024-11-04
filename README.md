@@ -1,6 +1,15 @@
 # BG3-Eldridtch_Bardadin
 a markdown guide for a particularly powerful build in BG3 that I created myself
 
+**__Keywords__:**
+  **Classes/Subclasses:** [Paladin](https://bg3.wiki/wiki/Paladin), [Oath of Vengance](https://bg3.wiki/wiki/Oath_of_Vengeance), [Oathbreaker](https://bg3.wiki/wiki/Oathbreaker); [Bard](https://bg3.wiki/wiki/College_of_Swords), [College of Swords](https://bg3.wiki/wiki/College_of_Swords); [Fighter](https://bg3.wiki/wiki/Fighter), [Eldritch Knight](https://bg3.wiki/wiki/Eldritch_Knight)
+  **Feats:** [Ability Improvement](https://bg3.wiki/wiki/Feats), [Alert](https://bg3.wiki/wiki/Alert), [Savage Attacker](https://bg3.wiki/wiki/Savage_Attacker)
+  **Weapons:** [Bloodthirst](https://bg3.wiki/wiki/Bloodthirst), [Duellist's Perogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative), [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King), [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
+  **Armour:** [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility), [Adamantine Splint Armour](https://bg3.wiki/wiki/Adamantine_Splint_Armour), [Helldusk Armour](https://bg3.wiki/wiki/Helldusk_Armour)
+  **Gear:** [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)
+  **Consumables:** [Elixir of Bloodlust](https://bg3.wiki/wiki/Elixir_of_Bloodlust), [Elixir of Cloud Giant Strength](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength), [Elixir of Visciousness](https://bg3.wiki/wiki/Elixir_of_Viciousness), [Supreme Elixir of Arcane Cultivation](https://bg3.wiki/wiki/Supreme_Elixir_of_Arcane_Cultivation)
+  **Abilities:** [Divine Smite](https://bg3.wiki/wiki/Divine_Smite), [Blade Flourish](https://bg3.wiki/wiki/Blade_Flourish), [Song of Rest](https://bg3.wiki/wiki/Song_of_Rest), [Action Surge](https://bg3.wiki/wiki/Action_Surge)
+  
 ## Introduction
 Bardadin is a tank and single-target melee build that uses Bard's full spell slot progression for extra daily uses of `Divine Smite`.
 
@@ -17,6 +26,14 @@ Paladin's `Divine Smite` is a class feature which consumes a spell slot to deal 
  - Level 6: 5d8 (5 - 40; mean 22.5)
  
 Critical Hits double the damage of `Divine Smite` as well as the rest of the attack, so disciplined usage of level 4, 5 and 6 spell slots have a mean of 45 extra radiant damage in a range of 10 to 80 per spell slot--up to 8 times per day (mean of 360 damage). There are of course methods of restoring spell slots or gaining extras, so this can be improved even further.
+
+So all of these things sound pretty good right? What if I told you `Divine Smite` is also broken and you can just apply a ton of ridiculous effects to it to further optimize its damage? You can do that!
+
+#### Savage Attacker (Feat) & Divine Smite
+Lastly, `Divine Smite` is affected by `Savage Attacker`, meaning that damage from `Divine Smite` is rolled twice and the higher result taken--effectively `Advantage` but for damage. That feat skews mean damage per `Divine Smite` by 1.86 for 2d8, then 2.28, 2.64, and finally 2.89 for 5d8. The mode and median both also increase by 2 or 3 depending on the exact roll, and the trimming of low rolls shows up as a standard deviation decrease by -0.57 to -0.91 from 2d8 to 5d8. All the quartiles on damage increase by 2 except Q1 for 3d8, 4d8, and 5d8, which all increase by 3. `Savage Attacker` makes the damage from `Divine Smite` higher overall and more reliable per swing. This feat also applies to critical hits, and since that's the focus of this build
+
+#### Savage Attacks (Racial Feature) & Divine Smite
+This [half-orc](https://bg3.wiki/wiki/Half-Orc) passive feature adds 1d8 to all `Divine Smite` critical hits. This extra d8 is affected by `Savage Attacker` if you have both.
 
 ### Notes on Multiclass Spellcasting in 5e
 When a character has two classes that each feature `Spellcasting` (not Warlock, which has `Pact Magic`), their levels opperate independently for `Spells Known` for each class, and collectively for `Spell Slots` which are shared among all a character's classes.
@@ -50,7 +67,7 @@ There are a few different ways `Spellcasting` is distributed for different class
 
 #### 1 - Paladin 1 (+1)
 The initial level should be Paladin for its extra Weapons and Armours. The proficiency bonus to `WIS` and `CHA` mean you stay in control of your character more often than not when fighting casters.
- - Take `Oath of Vengeance`. It's fine if you break your `Oath`; just become an Oathbreaker.
+ - Take `Oath of Vengeance`. It's fine if you break your `Oath`; just become an `Oathbreaker`.
  - I picked `Athletics` and `Religion` for my skills. `Athletics` helps in melee with pushing and resisting various maneauvers, but the second one is up to you. Make sure you have at least one conversational skill (`Deception`, `Intimidation`, `Persuasion`).
 
 #### 2 - Paladin 2 (+1)
