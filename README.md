@@ -2,13 +2,13 @@
 a markdown guide for a particularly powerful build in BG3 that I created myself
 
 **__Keywords__:**
-  **Classes/Subclasses:** [Paladin](https://bg3.wiki/wiki/Paladin), [Oath of Vengance](https://bg3.wiki/wiki/Oath_of_Vengeance), [Oathbreaker](https://bg3.wiki/wiki/Oathbreaker); [Bard](https://bg3.wiki/wiki/College_of_Swords), [College of Swords](https://bg3.wiki/wiki/College_of_Swords); [Fighter](https://bg3.wiki/wiki/Fighter), [Eldritch Knight](https://bg3.wiki/wiki/Eldritch_Knight)
-  **Feats:** [Ability Improvement](https://bg3.wiki/wiki/Feats), [Alert](https://bg3.wiki/wiki/Alert), [Savage Attacker](https://bg3.wiki/wiki/Savage_Attacker)
-  **Weapons:** [Bloodthirst](https://bg3.wiki/wiki/Bloodthirst), [Duellist's Perogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative), [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King), [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
-  **Armour:** [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility), [Adamantine Splint Armour](https://bg3.wiki/wiki/Adamantine_Splint_Armour), [Helldusk Armour](https://bg3.wiki/wiki/Helldusk_Armour)
-  **Gear:** [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)
-  **Consumables:** [Elixir of Bloodlust](https://bg3.wiki/wiki/Elixir_of_Bloodlust), [Elixir of Cloud Giant Strength](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength), [Elixir of Visciousness](https://bg3.wiki/wiki/Elixir_of_Viciousness), [Supreme Elixir of Arcane Cultivation](https://bg3.wiki/wiki/Supreme_Elixir_of_Arcane_Cultivation)
-  **Abilities:** [Divine Smite](https://bg3.wiki/wiki/Divine_Smite), [Blade Flourish](https://bg3.wiki/wiki/Blade_Flourish), [Song of Rest](https://bg3.wiki/wiki/Song_of_Rest), [Action Surge](https://bg3.wiki/wiki/Action_Surge)
+ - **Classes/Subclasses:** [Paladin](https://bg3.wiki/wiki/Paladin), [Oath of Vengance](https://bg3.wiki/wiki/Oath_of_Vengeance), [Oathbreaker](https://bg3.wiki/wiki/Oathbreaker); [Bard](https://bg3.wiki/wiki/College_of_Swords), [College of Swords](https://bg3.wiki/wiki/College_of_Swords); [Fighter](https://bg3.wiki/wiki/Fighter), [Eldritch Knight](https://bg3.wiki/wiki/Eldritch_Knight)
+ - **Feats:** [Ability Improvement](https://bg3.wiki/wiki/Feats), [Alert](https://bg3.wiki/wiki/Alert), [Savage Attacker](https://bg3.wiki/wiki/Savage_Attacker)
+ - **Weapons:** [Bloodthirst](https://bg3.wiki/wiki/Bloodthirst), [Duellist's Perogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative), [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King), [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
+ - **Armour:** [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility), [Adamantine Splint Armour](https://bg3.wiki/wiki/Adamantine_Splint_Armour), [Helldusk Armour](https://bg3.wiki/wiki/Helldusk_Armour)
+ - **Gear:** [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)
+ - **Consumables:** [Elixir of Bloodlust](https://bg3.wiki/wiki/Elixir_of_Bloodlust), [Elixir of Cloud Giant Strength](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength), [Elixir of Visciousness](https://bg3.wiki/wiki/Elixir_of_Viciousness), [Supreme Elixir of Arcane Cultivation](https://bg3.wiki/wiki/Supreme_Elixir_of_Arcane_Cultivation)
+ - **Abilities:** [Divine Smite](https://bg3.wiki/wiki/Divine_Smite), [Blade Flourish](https://bg3.wiki/wiki/Blade_Flourish), [Song of Rest](https://bg3.wiki/wiki/Song_of_Rest), [Action Surge](https://bg3.wiki/wiki/Action_Surge)
   
 ## Introduction
 Bardadin is a tank and single-target melee build that uses Bard's full spell slot progression for extra daily uses of `Divine Smite`.
