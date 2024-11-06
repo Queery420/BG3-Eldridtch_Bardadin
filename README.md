@@ -1,5 +1,5 @@
 # BG3-Eldridtch_Bardadin
-a markdown guide for a particularly powerful build in BG3 that I created myself
+a markdown guide for optimial Bardadins; while focusing on a Critical Hit variation, it includes information regarding other options, including the Two-Handed build--widely considered the highest single target DPS available in the game.
 
 **__Keywords__:**
  - **Classes/Subclasses:** [Paladin](https://bg3.wiki/wiki/Paladin), [Oath of Vengance](https://bg3.wiki/wiki/Oath_of_Vengeance), [Oathbreaker](https://bg3.wiki/wiki/Oathbreaker); [Bard](https://bg3.wiki/wiki/College_of_Swords), [College of Swords](https://bg3.wiki/wiki/College_of_Swords); [Fighter](https://bg3.wiki/wiki/Fighter), [Eldritch Knight](https://bg3.wiki/wiki/Eldritch_Knight)
@@ -7,13 +7,34 @@ a markdown guide for a particularly powerful build in BG3 that I created myself
  - **Weapons:** [Bloodthirst](https://bg3.wiki/wiki/Bloodthirst), [Duellist's Perogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative), [Knife of the Undermountain King](https://bg3.wiki/wiki/Knife_of_the_Undermountain_King), [The Dead Shot](https://bg3.wiki/wiki/The_Dead_Shot)
  - **Armour:** [Armour of Agility](https://bg3.wiki/wiki/Armour_of_Agility), [Adamantine Splint Armour](https://bg3.wiki/wiki/Adamantine_Splint_Armour), [Helldusk Armour](https://bg3.wiki/wiki/Helldusk_Armour)
  - **Gear:** [Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)
- - **Consumables:** [Elixir of Bloodlust](https://bg3.wiki/wiki/Elixir_of_Bloodlust), [Elixir of Cloud Giant Strength](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength), [Elixir of Visciousness](https://bg3.wiki/wiki/Elixir_of_Viciousness), [Supreme Elixir of Arcane Cultivation](https://bg3.wiki/wiki/Supreme_Elixir_of_Arcane_Cultivation)
+ - **Consumables:** [Elixir of Visciousness](https://bg3.wiki/wiki/Elixir_of_Viciousness), [Supreme Elixir of Arcane Cultivation](https://bg3.wiki/wiki/Supreme_Elixir_of_Arcane_Cultivation)
  - **Abilities:** [Divine Smite](https://bg3.wiki/wiki/Divine_Smite), [Blade Flourish](https://bg3.wiki/wiki/Blade_Flourish), [Song of Rest](https://bg3.wiki/wiki/Song_of_Rest), [Action Surge](https://bg3.wiki/wiki/Action_Surge)
   
 ## Introduction
-Bardadin is a tank and single-target melee build that uses Bard's full spell slot progression for extra daily uses of `Divine Smite`.
+Bardadin is a tank and single-target melee build that uses Bard's full spell slot progression for extra daily uses of `Divine Smite` and levels in Fighter for further abilities and diversification.
 
-A typical Bardadin build involves 2 levels into Paladin to pick up `Divine Smite`, then Fighter for `Action Surge`, then College of Swords Bard for 20 `Flourishes` a day and all the spell slots your `Divine Smite` could ever want. This variation trades out levels 7 and 8 in Bard for two levels in Eldritch Knight, which provides access to `Shield` and `Expeditious Retreat` for extreme survivability and mobility, even maintaining the second feat. Furthermore, this build focuses on critical hit damage out put for `Divine Smite` rather than 2-Handed melee damage, allowing another party member to use `Balduran's Giantslayer`.
+As with the typical Bardadin build, this one involves 2 levels into Paladin to pick up `Divine Smite`, then College of Swords Bard 6 for 20 `Flourishes` a day and all the spell slots your `Divine Smite` could ever want, then 4 levels of Fighter for `Action Surge`, `Shield` and `Expeditious Retreat` for extreme survivability and mobility, and a second feat. This build focuses heavily on critical hits, using both weapon slots, the healmet, and the daily elixir slots all for extra critical strike chance.
+
+It is worth noting immediately that the Two-Handed damage output is outright greater than what the critical focus build has to offer.
+Some Key Differences:
+ - [Balduran's Giantslayer](https://bg3.wiki/wiki/Balduran%27s_Giantslayer) deals 3x Strength damage in addition to 2d6 Greatsword damage, making it the highest base damage offered by a melee weapon in the game. This build takes [Great Weapon Fighting](https://bg3.wiki/wiki/Great_Weapon_Fighting) and [Defence](https://bg3.wiki/wiki/Defence) as its Fighting Styles from Paladin and Fighter, and its Bard Fighting Style doesn't matter since it can't benefit from either of them. Because this build does not focus on critical hits, it has the flexibility to run alternative Elixirs, such as [Elixir of Cloud Giant Strength](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength) or [Elixir of Bloodlust](https://bg3.wiki/wiki/Elixir_of_Bloodlust), and use [Helm of Balduran](https://bg3.wiki/wiki/Helm_of_Balduran) for further survivability.
+ - The Critial Hit variation uses `Knife of the Undermountain King` and `Bloodthirst` to gain -2 to its Critical Hit Threshold. Since critical hits also affect a number of other effects, such as `Divine Strike`, this build allows another party member to carry `Balduran's Giantslayer`, compensating for the loss of damage with extra criticals. More criticals also allows players to be more judicious with their `Divine Strike`, ideally making all `Divine Strike` damage critical.
+
+While this build doesn't output the most damage overall, it still shows impressive potential without competing with in the Two-Handed equipment pool.
+
+## Major Build Choices Outline & Quick Reference
+ - Level 1: Half Orc, Paladin 1 - Oath of Vengeance, `10|16*|14|8|8|17**` or `10|16*|14|8|10|16**`, `Athletics, 
+ - Level 2: Paladin 2 - Defence, `Command, Cure Wounds, Sanctuary, Shield of Faith`
+ - Level 3: Bard 1 - `Mage Hand, Minor Illusion`, `Disguise Self, Feather Fall, Healing Word, Longstrider`
+ - Level 4: Bard 2 - `Thunderwave`
+ - Level 5: Bard 3 - College of Swords, Duelling, `Knock`
+ - Level 6: Bard 4 - `Blade Ward`, `Heat Metal`, `Alert`
+ - Level 7: Bard 5 - `Hypnotic Pattern`
+ - Level 8: Bard 6 - `Fear`
+ - Level 9: Fighter 1 - Archery
+ - Level 10: Figher 2
+ - Level 11: Fighter 3 - Eldritch Knight, `Ray of Frost, Shocking Grasp`, `Magic Missile, Shield`, `Expeditious Retreat`
+ - Level 12: Fighter 4 - `Savage Attacker`
 
 ## Build Theory
 ### Divine Smite
