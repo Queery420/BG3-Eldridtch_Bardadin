@@ -16,9 +16,15 @@ Bardadin is a tank and single-target melee build that uses Bard's full spell slo
 As with the typical Bardadin build, this one involves 2 levels into Paladin to pick up `Divine Smite`, then College of Swords Bard 6 for 20 `Flourishes` a day and all the spell slots your `Divine Smite` could ever want, then 4 levels of Fighter for `Action Surge`, `Shield` and `Expeditious Retreat` for extreme survivability and mobility, and a second feat. This build focuses heavily on critical hits, using both weapon slots, the healmet, and the daily elixir slots all for extra critical strike chance.
 
 It is worth noting immediately that the Two-Handed damage output is outright greater than what the critical focus build has to offer.
+
 Some Key Differences:
  - [Balduran's Giantslayer](https://bg3.wiki/wiki/Balduran%27s_Giantslayer) deals 3x Strength damage in addition to 2d6 Greatsword damage, making it the highest base damage offered by a melee weapon in the game. This build takes [Great Weapon Fighting](https://bg3.wiki/wiki/Great_Weapon_Fighting) and [Defence](https://bg3.wiki/wiki/Defence) as its Fighting Styles from Paladin and Fighter, and its Bard Fighting Style doesn't matter since it can't benefit from either of them. Because this build does not focus on critical hits, it has the flexibility to run alternative Elixirs, such as [Elixir of Cloud Giant Strength](https://bg3.wiki/wiki/Elixir_of_Cloud_Giant_Strength) or [Elixir of Bloodlust](https://bg3.wiki/wiki/Elixir_of_Bloodlust), and use [Helm of Balduran](https://bg3.wiki/wiki/Helm_of_Balduran) for further survivability.
  - The Critial Hit variation uses `Knife of the Undermountain King` and `Bloodthirst` to gain -2 to its Critical Hit Threshold. Since critical hits also affect a number of other effects, such as `Divine Strike`, this build allows another party member to carry `Balduran's Giantslayer`, compensating for the loss of damage with extra criticals. More criticals also allows players to be more judicious with their `Divine Strike`, ideally making all `Divine Strike` damage critical.
+
+Some Key Similarities:
+ - `Divine Smite` deals a significant portion of the damage and is the focus of the build.
+ - `Blade Flourish` works with all melee weapons.
+ - Dipping into `Eldritch Knight` grants extra uses of high level `Divine Smite` as well as `Shield`.
 
 While this build doesn't output the most damage overall, it still shows impressive potential without competing with in the Two-Handed equipment pool.
 
