@@ -29,18 +29,20 @@ Some Key Similarities:
 While this build doesn't output the most damage overall, it still shows impressive potential without competing with in the Two-Handed equipment pool.
 
 ## Major Build Choices Outline & Quick Reference
- - Level 1: Half Orc, Paladin 1 - Oath of Vengeance, `10|16*|14|8|8|17**` or `10|16*|14|8|10|16**`, `Athletics, 
- - Level 2: Paladin 2 - Defence, `Command, Cure Wounds, Sanctuary, Shield of Faith`
- - Level 3: Bard 1 - `Mage Hand, Minor Illusion`, `Disguise Self, Feather Fall, Healing Word, Longstrider`
+If you want to run shield, just swap out Two-Weapon Fighting for Duelling.
+If you want to run [Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_Dexterity) and [Amulet of Greater Health](https://bg3.wiki/wiki/Amulet_of_Greater_Health) immediately (such as with , set your stats to: `13|8|8|12|15*|15**`
+ - Level 1: Half Orc, Paladin 1 - Oath of Vengeance, Outlander, `10|15*|14|8|8|15**` or `10|15*|14|8|10|14**`, `Insight, Persuasion`
+ - Level 2: Paladin 2 - Defence, `Bless, Command, Compelled Duel, Cure Wounds, Shield of Faith`
+ - Level 3: Bard 1 - `Mage Hand, Minor Illusion`, `Disguise Self, Feather Fall, Healing Word, Longstrider`, `Perception`
  - Level 4: Bard 2 - `Thunderwave`
- - Level 5: Bard 3 - College of Swords, Duelling, `Knock`
- - Level 6: Bard 4 - `Blade Ward`, `Heat Metal`, `Alert`
+ - Level 5: Bard 3 - College of Swords, Two-Weapon Fighting, `Lesser Restoration`, `Athletics, Persuasion` or `Athletics, Intimidate`
+ - Level 6: Bard 4 - `Blade Ward`, `Knock`, `Alert`
  - Level 7: Bard 5 - `Hypnotic Pattern`
  - Level 8: Bard 6 - `Fear`
  - Level 9: Fighter 1 - Archery
  - Level 10: Figher 2
  - Level 11: Fighter 3 - Eldritch Knight, `Ray of Frost, Shocking Grasp`, `Magic Missile, Shield`, `Expeditious Retreat`
- - Level 12: Fighter 4 - `Savage Attacker`
+ - Level 12: Fighter 4 - `Chromatic Orb`, `Savage Attacker`
 
 ## Build Theory
 ### Divine Smite
